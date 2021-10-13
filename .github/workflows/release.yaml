@@ -22,6 +22,6 @@ jobs:
           body: |
             AWS FSx CSI Driver
             ## CHANGELOG
-            See [CHANGELOG](https://github.com/kubernetes-sigs/aws-fsx-csi-driver/blob/master/CHANGELOG-0.x.md) for full list of changes
+            See [CHANGELOG](https://github.com/kubernetes-sigs/aws-fsx-csi-driver/blob/master/CHANGELOG-1.x.md) for full list of changes
           draft: false
           prerelease: false
